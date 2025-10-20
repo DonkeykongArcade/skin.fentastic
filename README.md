@@ -8,7 +8,7 @@ Below you'll find some information about the [differences](#fentastic-vs-default
 
 ## New Features added my DonkeykongArcade
 
-**Version 1.0.25.1**
+**Version 1.0.26**
 
 Enhanced UI for PVR Guide and Channel selection with tvg-logos
 ![Viewtypes Widelist](resources/images/pvr_icons.jpg)
