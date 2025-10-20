@@ -2,6 +2,10 @@
 <includes>
   <include name="Changelog">
     <label>[B][COLOR accent_color]Version $INFO[System.AddonVersion(skin.fentastic)][/COLOR][/B]
+- Enhanced PVR guide/channel-selection with tvg-logos and better highlighting
+- Added anime search and corresponding settings 
+
+[B][COLOR accent_color]Version 1.0.25[/COLOR][/B]
 - Quick fix for landscape artwork
 
 [B][COLOR accent_color]Version 1.0.24[/COLOR][/B]

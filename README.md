@@ -1,11 +1,23 @@
 # FENtastic Skin for Kodi Omega
 
-**IMPORTANT INFO:** I am currently not accepting **ANY** feature requests.
-
 FENtastic is a modded version of the default Estuary skin, specifically designed for FEN users. It includes several new features and adjustments to pre-existing views, a new UI, viewtypes, customizable widgets, and a new default colors theme.
 
 Below you'll find some information about the [differences](#fentastic-vs-default-estuary-skin) between Estuary and FENtastic along with some screenshots and a detailed [setup guide](#setup-guide) of the skin.
 
+**I'm trying to maintain and add new useful features to this already awesome skin by Ivar Brandt.**
+
+## New Features added my DonkeykongArcade
+
+**Version 1.0.25.1**
+
+Enhanced UI for PVR Guide and Channel selection with tvg-logos
+![Viewtypes Widelist](resources/images/pvr_icons.jpg)
+
+![Viewtypes Widelist](resources/images/channel_icons.jpg)
+
+Added Anime search results and settings entry
+![Viewtypes Widelist](resources/images/anime_search.jpg)
+![Viewtypes Widelist](resources/images/anime_search_setting.jpg)
 
 ## FENtastic vs Default Estuary Skin
 

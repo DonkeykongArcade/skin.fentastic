@@ -42,6 +42,12 @@
               <param name="widget_header" value="TV Shows"/>
               <param name="widget_target" value="videos"/>
               <param name="list_id" value="27012"/>
+            </include>       
+            <include content="WidgetListBigPoster" condition="!Skin.HasSetting(HideAnimeResults)">
+              <param name="content_path" value="$VAR[SearchProviderAnimeVar]"/>
+              <param name="widget_header" value="Anime" />
+              <param name="widget_target" value="videos" />
+              <param name="list_id" value="27020" />
             </include>
             <include content="WidgetListBigPoster" condition="!Skin.HasSetting(HideCollectionsResults) + [String.IsEqual(Skin.String(current_search_provider),0) | String.IsEqual(Skin.String(current_search_provider),3)]">
               <param name="content_path" value="$VAR[SearchProviderCollectionsVar]"/>

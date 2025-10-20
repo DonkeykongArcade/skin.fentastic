@@ -326,6 +326,14 @@
 					<onclick>Skin.ToggleSetting(HideTVShowResults)</onclick>
 					<selected>!Skin.HasSetting(HideTVShowResults)</selected>
 					<visible>!Skin.HasSetting(NoSearchResultsWindow)</visible>
+				</control>				
+				<control type="radiobutton" id="6470">
+					<label>   - Anime</label>
+					<!-- <label>   - $LOCALIZE[20343]</label> -->
+					<include>DefaultSettingButton</include>
+					<onclick>Skin.ToggleSetting(HideAnimeResults)</onclick>
+					<selected>!Skin.HasSetting(HideAnimeResults)</selected>
+					<visible>!Skin.HasSetting(NoSearchResultsWindow)</visible>
 				</control>
 				<control type="radiobutton" id="64705">
 					<label>   - Collections</label>

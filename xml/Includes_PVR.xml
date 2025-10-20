@@ -569,10 +569,18 @@
 					</control>
 				</rulerlayout>
 				<channellayout height="62" width="$PARAM[channel_width]">
-					<control type="label">
-						<left>2</left>
+					<control type="image">
+						<left>2%</left>
 						<top>-2</top>
-						<width>90</width>
+						<width>15%</width>
+						<height>60</height>
+						<texture background="true" fallback="defaultaddonpvrclient.png">$INFO[ListItem.Icon]</texture>
+						<aspectratio align="center" aligny="center">keep</aspectratio>
+					</control>	
+					<control type="label">
+						<left>24%</left>
+						<top>-2</top>
+						<width>15%</width>
 						<height>60</height>
 						<font>font32_title</font>
 						<label>$INFO[ListItem.ChannelNumberLabel]</label>
@@ -581,8 +589,9 @@
 						<aligny>center</aligny>
 					</control>
 					<control type="label" id="1">
-						<left>83</left>
+						<left>46%</left>
 						<top>-2</top>
+						<width>70%</width>
 						<height>60</height>
 						<font>font13</font>
 						<label>$INFO[ListItem.ChannelName]</label>
@@ -592,10 +601,18 @@
 					</control>
 				</channellayout>
 				<focusedchannellayout height="62" width="$PARAM[channel_width]">
-					<control type="label">
-						<left>2</left>
+					<control type="image">
+						<left>2%</left>
 						<top>-2</top>
-						<width>90</width>
+						<width>20%</width>
+						<height>60</height>
+						<texture background="true" fallback="defaultaddonpvrclient.png">$INFO[ListItem.Icon]</texture>
+						<aspectratio align="center" aligny="center">keep</aspectratio>
+					</control>	
+					<control type="label">
+						<left>24%</left>
+						<top>-2</top>
+						<width>20%</width>
 						<height>60</height>
 						<font>font32_title</font>
 						<label>$INFO[ListItem.ChannelNumberLabel]</label>
@@ -604,9 +621,9 @@
 						<aligny>center</aligny>
 					</control>
 					<control type="label" id="1">
-						<left>83</left>
+						<left>46%</left>
 						<top>-2</top>
-						<height>60</height>
+						<width>53%</width>
 						<font>font13</font>
 						<label>$INFO[ListItem.ChannelName]</label>
 						<textcolor>button_focus</textcolor>

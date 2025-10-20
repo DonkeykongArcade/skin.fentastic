@@ -35,6 +35,15 @@
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),2)">ActivateWindow(Videos,"plugin://plugin.video.umbrella/?action=tvSearch",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),3)">ActivateWindow(Videos,"plugin://plugin.video.pov/?action=tvshow&amp;mode=search_history",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),4)">ActivateWindow(Videos,"plugin://plugin.video.seren/?action=showsSearchResults",return)</onclick>
+					</item>					
+					<item>
+						<label>Anime</label>
+						<onclick>Dialog.Close(all)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),0)">ActivateWindow(Videos,"plugin://plugin.video.fen/?mode=history.search&amp;action=tvshow",return)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),1)">ActivateWindow(Videos,"plugin://plugin.video.fenlight/?mode=build_tvshow_list&amp;action=trakt_anime_search&amp;query=",return)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),2)">ActivateWindow(Videos,"plugin://plugin.video.umbrella/?action=tvSearch",return)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),3)">ActivateWindow(Videos,"plugin://plugin.video.pov/?action=tvshow&amp;mode=search_history",return)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),4)">ActivateWindow(Videos,"plugin://plugin.video.seren/?action=showsSearchResults",return)</onclick>
 					</item>
 					<item>
 						<label>Movie Collections</label>
