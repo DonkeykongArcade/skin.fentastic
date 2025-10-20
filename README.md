@@ -19,6 +19,9 @@ Added Anime search results and settings entry
 ![Viewtypes Widelist](resources/images/anime_search.jpg)
 ![Viewtypes Widelist](resources/images/anime_search_setting.jpg)
 
+Added more color variety to chose from
+![Viewtypes Widelist](resources/images/colors.jpg)
+
 ## FENtastic vs Default Estuary Skin
 
 Here are some of the key differences between FENtastic and the default Estuary skin.
