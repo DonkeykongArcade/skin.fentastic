@@ -6,7 +6,7 @@ Below you'll find some information about the [differences](#fentastic-vs-default
 
 **I'm trying to maintain and add new useful features to this already awesome skin by Ivar Brandt.**
 
-## New Features added my DonkeykongArcade
+## New Features added by DonkeykongArcade
 
 **Version 1.0.26**
 
