@@ -1,8 +1,4 @@
-# FENtastic Skin for Kodi Omega
-
-FENtastic is a modded version of the default Estuary skin, specifically designed for FEN users. It includes several new features and adjustments to pre-existing views, a new UI, viewtypes, customizable widgets, and a new default colors theme.
-
-Below you'll find some information about the [differences](#fentastic-vs-default-estuary-skin) between Estuary and FENtastic along with some screenshots and a detailed [setup guide](#setup-guide) of the skin.
+# FENtastic Skin
 
 **I'm trying to maintain and add new useful features to this already awesome skin by Ivar Brandt.**
 
