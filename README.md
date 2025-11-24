@@ -4,6 +4,10 @@
 
 ## New Features added by DonkeykongArcade
 
+**Version 1.0.27**
+
+Fixed Anime and TV Show search string
+
 **Version 1.0.26**
 
 Enhanced UI for PVR Guide and Channel selection with tvg-logos
