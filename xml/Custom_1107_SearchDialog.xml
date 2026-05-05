@@ -26,6 +26,7 @@
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),2)">ActivateWindow(Videos,"plugin://plugin.video.umbrella/?action=movieSearch",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),3)">ActivateWindow(Videos,"plugin://plugin.video.pov/?action=movie&amp;mode=search_history",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),4)">ActivateWindow(Videos,"plugin://plugin.video.seren/?action=moviesSearchResults",return)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),5)">ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?info=play&amp;type=movie",return)</onclick>
 					</item>
 					<item>
 						<label>TV Shows</label>
@@ -35,6 +36,7 @@
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),2)">ActivateWindow(Videos,"plugin://plugin.video.umbrella/?action=tvSearch",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),3)">ActivateWindow(Videos,"plugin://plugin.video.pov/?action=tvshow&amp;mode=search_history",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),4)">ActivateWindow(Videos,"plugin://plugin.video.seren/?action=showsSearchResults",return)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),5)">ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?info=play&amp;type=episode",return)</onclick>
 					</item>					
 					<item>
 						<label>Anime</label>
@@ -44,6 +46,7 @@
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),2)">ActivateWindow(Videos,"plugin://plugin.video.umbrella/?action=tvSearch",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),3)">ActivateWindow(Videos,"plugin://plugin.video.pov/?action=tvshow&amp;mode=search_history",return)</onclick>
 						<onclick condition="String.IsEqual(Skin.String(current_search_provider),4)">ActivateWindow(Videos,"plugin://plugin.video.seren/?action=showsSearchResults",return)</onclick>
+						<onclick condition="String.IsEqual(Skin.String(current_search_provider),5)">ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper/?info=search&amp;with_genres=16&amp;with_keywords=210024|287501",return)</onclick>
 					</item>
 					<item>
 						<label>Movie Collections</label>

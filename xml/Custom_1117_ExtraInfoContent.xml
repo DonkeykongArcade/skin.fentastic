@@ -2,12 +2,14 @@
 <includes>
   <include name="Changelog">
     <label>[B][COLOR accent_color]Version $INFO[System.AddonVersion(skin.fentastic)][/COLOR][/B]
-- Fixed Anime and TV Show search string
-	
-[B][COLOR accent_color]Version 1.0.26[/COLOR][/B]
-- Enhanced PVR guide/channel-selection with tvg-logos and better highlighting
+- Added Search support for TMDB Helper
+
+[B][COLOR accent_color]Version 1.0.27[/COLOR][/B]
 - Added anime search and corresponding settings 
 - Added more color variety
+
+[B][COLOR accent_color]Version 1.0.26[/COLOR][/B]
+- Enhanced PVR guide/channel-selection with tvg-logos and better highlighting
 
 [B][COLOR accent_color]Version 1.0.25[/COLOR][/B]
 - Quick fix for landscape artwork
