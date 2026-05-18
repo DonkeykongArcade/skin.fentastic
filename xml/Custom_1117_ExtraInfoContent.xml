@@ -2,6 +2,9 @@
 <includes>
   <include name="Changelog">
     <label>[B][COLOR accent_color]Version $INFO[System.AddonVersion(skin.fentastic)][/COLOR][/B]
+- Fixed Anime and TV Show search string for FenLight
+
+[B][COLOR accent_color]Version 1.0.28[/COLOR][/B]
 - Added Search support for TMDB Helper
 
 [B][COLOR accent_color]Version 1.0.27[/COLOR][/B]

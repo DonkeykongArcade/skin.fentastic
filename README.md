@@ -4,6 +4,10 @@
 
 ## New Features added by DonkeykongArcade
 
+**Version 1.0.29**
+
+Fixed Anime and TV Show search string for FenLight
+
 **Version 1.0.28**
 
 Added Search support for TMDB Helper
